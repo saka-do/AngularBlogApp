@@ -1,0 +1,5 @@
+1. Design Header Component
+2. Design the category Navbar Component
+3. Design the Footer component
+4. Design the post card component
+5. Design the Subscription Card Component

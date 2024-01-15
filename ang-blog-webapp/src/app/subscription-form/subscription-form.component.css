@@ -11,14 +11,6 @@ input[type="text"], input[type="email"]{
     border-radius: 5px !important;
 }
 
-.btn-sub{
-    height: 40px;
-    width: 100x;
-    margin:10px 20px;
-    border-radius: 5px !important;
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
-}
 
 .subs-tetxt{
     font-size: 10px;
